@@ -1,4 +1,4 @@
-Made this as a birthday present for my girlfriend during lockdown. Small attempt for virtual party.
+Made this as a birthday present for Sushma Ma`am. Small attempt for virtual party.
 
 Sample screenshot of the application .
 ![GitHub Logo](/images/screenshots/sample.jpg)
